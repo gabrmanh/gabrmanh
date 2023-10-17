@@ -2,7 +2,7 @@
 ### Hi! My name is **Gabriel**, and i'm currently studying to be a developer. 
 My main interests are back-end related, and i enjoy object-oriented programming a lot.
 
-![C Language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C Language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 #### Technologies i have experience/familiarity with:
 - C17
   - Used to learn programming logic and pointers extensively
