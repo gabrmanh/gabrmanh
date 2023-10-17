@@ -19,7 +19,7 @@ My main interests are back-end related, and i enjoy object-oriented programming 
 - Working within a development group ![pet-ads/homepage](https://github.com/pet-ads/homepage)
 - Operating system functioning
 
-![My LinkedIn](https://www.linkedin.com/in/gabriel-zanotim-manhani/)
+![My LinkedIn](https://www.linkedin.com/in/gabriel-zanotim-manhani)
 
 I have a lot of school work and other projects here! Please take a look :)
 
