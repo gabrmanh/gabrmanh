@@ -6,9 +6,9 @@ My main interests are back-end related, and i enjoy object-oriented programming 
 #### Technologies i have experience/familiarity with:
 - C17
   - Used to learn programming logic and pointers extensively
+- Linux
 - Java 
   - Inheritance/polimorphism ; Treatment exception and other modern programming concepts
-- Linux
 - React.js 
 - TypeScript
 - PHP
