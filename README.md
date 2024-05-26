@@ -1,22 +1,26 @@
 # Software Engineer
 ### Hi! My name is **Gabriel**, and i'm currently studying to be a developer. 
+Pronouns: He/They
 My main interests are back-end related, though i know a good bit of front-end, and i enjoy object-oriented programming a lot.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C Language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 #### Technologies i have experience/familiarity with:
-- C17
+- C
   - Used to learn programming logic and pointers extensively
-- Linux
-- Java 
+- Java
+- Kotlin
+- Spring 
 - React.js 
 - TypeScript
-- PHP
 
 #### Concepts i've learned during my degree:
 - Agile Methodologies
   - Scrum, working in sprints
 - Working within a development group ![pet-ads/homepage](https://github.com/pet-ads/homepage)
-- Operating system functioning
+- Domain Drive Development
+- Clean Code; Clean Architecture (I've read the books by Uncle Bob at least c:)
+- Testing
+- Operating systems
 
 [My LinkedIn](https://www.linkedin.com/in/gabriel-zanotim-manhani)
 
