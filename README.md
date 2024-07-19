@@ -26,7 +26,7 @@ My main interests are back-end related, though i know a good bit of front-end, a
 
 I have a lot of school work and other projects here! Please take a look :)
 
-[![](https://github-readme-stats.vercel.app/api?username=gabrmanh)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=gabrmanh&hide_rank=true&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
