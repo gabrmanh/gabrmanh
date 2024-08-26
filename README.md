@@ -19,7 +19,7 @@ My main interests are back-end related, though i know a good bit of front-end, a
   - Scrum, working in sprints
 - Working within a development group ![pet-ads/homepage](https://github.com/pet-ads/homepage)
 - Domain Drive Development
-- Clean Code; Clean Architecture (I've read the books by Uncle Bob at least c:)
+- Clean Code; Clean Architecture (I've read the books by Robert Martin at least c:)
 - Testing
 - Operating systems
 
