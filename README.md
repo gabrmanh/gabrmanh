@@ -9,7 +9,8 @@ My main interests are back-end related, though i know a good bit of front-end, a
   - Used to learn programming logic and pointers extensively
 - Java
 - Kotlin
-- Spring 
+- Spring
+- C #
 - React.js 
 - TypeScript
 
